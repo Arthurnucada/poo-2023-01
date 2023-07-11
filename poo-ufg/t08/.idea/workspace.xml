@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aea49297-6115-4471-b8fa-b2ea53b8754b" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aeromoca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aeromoca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aeroporto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aeroporto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aviao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Aviao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Bilhete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Bilhete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Copiloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Copiloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Lugar.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Lugar.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Operacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Operacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Passageiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Passageiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Piloto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Piloto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Tipodeoperacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Tipodeoperacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Tripulacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Tripulacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Voo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Aeroporto/Voo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Computador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Computador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Cpu.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Cpu.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Dispositivo.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Dispositivo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Memoria.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Memoria.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Mouse.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Mouse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Placamae.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Placamae.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Teclado.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Computador/Teclado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Bebida.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Bebida.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Detalhamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Detalhamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Garconete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Garconete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Lanchonete.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Lanchonete.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Pedido.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Pedido.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Sanduiche.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/Lanchonete/Sanduiche.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Aluno.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Aluno.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Avaliacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Avaliacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Prova.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Prova.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Questao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Questao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Resposta.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/avaliacao/Resposta.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/comite/Comite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/comite/Comite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/comite/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/comite/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/dirige/Automovel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/dirige/Automovel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/dirige/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/dirige/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/empresa/Empresa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/empresa/Empresa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/empresa/Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/empresa/Funcionario.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Acompanhante.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Acompanhante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Convite.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Convite.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Danca.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Danca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Festa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Festa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Musica.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Musica.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/festa/Pessoa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/NotaFiscal.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/NotaFiscal.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/Produto.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/notafiscal/Produto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Contrato.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Contrato.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Pagamento.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Pagamento.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Tarefa.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Tarefa.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Trabalhador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/pagamento/Trabalhador.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Acougueiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Acougueiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Advogado.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Advogado.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Padeiro.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Padeiro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Professor.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Professor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Profissao.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Profissao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Trabalhador.class" beforeDir="false" afterPath="$PROJECT_DIR$/../t17/target/classes/com/ufg/arthur/trabalhador/Trabalhador.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2SP5dvFQzFkS1Y59ge8mIBGTdvt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aea49297-6115-4471-b8fa-b2ea53b8754b" name="Changes" comment="" />
+      <created>1689035467407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1689035467407</updated>
+      <workItem from="1689035469082" duration="53000" />
+      <workItem from="1689035528697" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
