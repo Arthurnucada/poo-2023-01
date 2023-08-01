@@ -1,3 +1,3 @@
 # poo-2023-01
 
-Repositório dedicado às atividades da disciplina de POO 2023-01 (UFG).
+Repositório dedicado às atividades da disciplina de POO, semestre 2023-01 (UFG).
